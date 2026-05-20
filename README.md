@@ -1,4 +1,3 @@
-```markdown
 # 🏥 Ghana IDP Healthcare Agent
 
 > Bridging Medical Deserts — An Intelligent Document Parsing Agent for the Virtue Foundation Ghana Dataset
@@ -31,6 +30,7 @@ An Intelligent Document Parsing (IDP) agent that:
 ## 🏗️ Architecture
 
 ### 4-Stage LLM Extraction Pipeline
+
 ```
 Stage 1: Organization Classification (NGO vs Facility)
 Stage 2: Structured Field Extraction (address, contacts, type)
@@ -125,6 +125,3 @@ Visit the live demo:
 ## 📄 License
 
 MIT License — see [LICENSE](LICENSE) for details.
-```
-
-Paste this into your GitHub README.md — click the pencil ✏️ edit button on the README file in your repo, replace everything, and commit!
