@@ -1,0 +1,3 @@
+gradio==6.14.0
+folium
+requests
