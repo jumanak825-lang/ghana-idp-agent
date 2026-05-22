@@ -5,6 +5,7 @@
 Built for the **Databricks + Accenture Hackathon 2026**
 
 🔗 **Live Demo:** [huggingface.co/spaces/JumanaCodes/ghana-idp-agent](https://huggingface.co/spaces/JumanaCodes/ghana-idp-agent)  
+    **Demo Video:** [https://drive.google.com/file/d/1EKMcouc_c2uBagoOIVpS1gi8_8TuWJr3/view](https://drive.google.com/file/d/1EKMcouc_c2uBagoOIVpS1gi8_8TuWJr3/view)
 📡 **API Endpoint:** `https://dbc-625f49f0-72cc.cloud.databricks.com/serving-endpoints/ghana-idp-agent/invocations`
 
 ---
